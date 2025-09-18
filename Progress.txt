@@ -1,0 +1,2 @@
+For the first part of the project I was able to complete the basic token parsing part of the project. I was not usre if were supposed to implement any logic beyond veryifying tokens and giving 
+error messages. I plan to do this next time. A big Issue I had throughout the code was using Malloc. I found myself going back to the slides over and over to look at them. 
